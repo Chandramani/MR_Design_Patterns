@@ -1,4 +1,4 @@
-
+All Design Pattern Algorithm from "Data-Intensive Text Processing with MapReduce" Jimmy Lin and Chris Dyer University of Maryland, College Park. This project is an implementation of the algorithms.
 WordCountInMapperCombining.java
 
 IMCDP -> In Memmory combiner Design Pattern
